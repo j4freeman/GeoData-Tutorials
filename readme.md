@@ -2,6 +2,8 @@
 
 Simple ABM model operating on an inital food raster that regenerates over time. Two types of agents, sheep consume nutrients from the raster, emit pheremones, and move in the direction of their local food gradient. Wolves follow pheremone trails and eat sheep. Pheremones diffuse via a gaussian filter at each interval. 
 
+![](demo.gif)
+
 Profile and repo link can be accessed **[here](https://j4freeman.github.io/GeoData-Tutorials/profile.html)**. 
 
 To execute, first install the requirements via running:
