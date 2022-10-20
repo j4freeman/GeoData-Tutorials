@@ -1,3 +1,11 @@
+"""
+Created on Thu Sep 15 2022
+@author: John Freeman
+
+Unit tests for the sheep agent.
+"""
+
+
 import pytest
 import numpy as np
 from unittest import mock

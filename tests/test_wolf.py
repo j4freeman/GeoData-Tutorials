@@ -1,3 +1,11 @@
+"""
+Created on Thu Sep 15 2022
+@author: John Freeman
+
+Unit tests for the wolf agent. 
+"""
+
+
 import pytest
 import numpy as np
 from unittest import mock
@@ -58,4 +66,4 @@ class Testwolf:
         assert(wolf1.y_coord == 0)
 
         assert(custom_phers[0][1] == 0)
-        assert(wolf1.store == 0)
+        assert(wolf1.store == 75)

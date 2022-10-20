@@ -1,4 +1,9 @@
-"""Model framework class housing code to build the environment grids and run the agents' loops"""
+"""
+Created on Thu Sep 15 2022
+@author: John Freeman
+
+Model framework class housing code to build the environment grids and run the agents' loops
+"""
 
 import tkinter
 

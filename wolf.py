@@ -1,4 +1,7 @@
 """
+Created on Thu Sep 15 2022
+@author: John Freeman
+
 Wolf class, follows pheremone trails and eats sheep
 reproduces rarely
 dies slowly

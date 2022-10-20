@@ -1,4 +1,7 @@
 """
+Created on Thu Sep 15 2022
+@author: John Freeman
+
 Sheep class, simple agent that follows food gradients and eats while emitting pheremones
 reproduces frequently
 dies easily

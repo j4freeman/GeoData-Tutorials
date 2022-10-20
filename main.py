@@ -1,4 +1,7 @@
 """
+Created on Thu Sep 15 2022
+@author: John Freeman
+
 Main entry point for the ABM simulator, accepts standard input and initializes and exeutes the model
 """
 
